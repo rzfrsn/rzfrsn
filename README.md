@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Vue.js, Express.js
-- 🌱 I’m currently learning React.js, Blockchain
+- 🔭 I’m currently working on React, Nest (ts), GraphQL
+- 🌱 I’m currently learning advanced algorithms
 - 👯 I’m looking to collaborate on Vue project
 - 💬 Ask me about Vue, JavaScript, Laravel, Symfony ...
 - 📫 How to reach me: tafita.raza@outlook.com, (linkedin) https://www.linkedin.com/in/tafita-raza
