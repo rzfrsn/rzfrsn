@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on React, Nest (ts), GraphQL
-- 🌱 I’m currently learning advanced algorithms
-- 👯 I’m looking to collaborate on Vue project
-- 💬 Ask me about Vue, JavaScript, Laravel, Symfony ...
-- 📫 How to reach me: tafita.raza@outlook.com, (linkedin) https://www.linkedin.com/in/tafita-raza
+- 🔭 I’m currently working on React, Nest (ts), Angular, Spring boot
+- 🌱 I’m currently learning some DevOps basics
+- 💬 Ask me about Vue, Angular, Java, Design patterns .. 
+- 📫 How to reach me: tafita.raz1a@gmail.com, (linkedin) https://www.linkedin.com/in/tafita-raza
 
 ## Languages and Tools :
 <div>
@@ -14,8 +13,6 @@
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" />
-  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
