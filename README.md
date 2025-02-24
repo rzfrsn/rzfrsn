@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on React, Nest (ts), Angular, Spring boot
 - 🌱 I’m currently learning some DevOps basics
 - 💬 Ask me about Vue, Angular, Java, Design patterns .. 
-- 📫 How to reach me: tafita.raz1a@gmail.com, (linkedin) https://www.linkedin.com/in/tafita-raza
+- 📫 How to reach me: tafita.raza1@gmail.com, (linkedin) https://www.linkedin.com/in/tafita-raza
 
 ## Languages and Tools :
 <div>
