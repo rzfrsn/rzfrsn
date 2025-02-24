@@ -18,5 +18,4 @@
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div>
 
-[//]:## Dashboard
 [//]: ![GHstats](https://github-readme-stats.vercel.app/api?username=rzfrsn&show_icons=true&theme=dark&icon_color='#FFFFFF')
