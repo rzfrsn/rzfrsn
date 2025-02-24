@@ -19,4 +19,4 @@
 </div>
 
 ## Dashboard
-![GHstats](https://github-readme-stats.vercel.app/api?username=rzfrsn&show_icons=true&theme=dark&icon_color='#FFFFFF')
+[//]: ![GHstats](https://github-readme-stats.vercel.app/api?username=rzfrsn&show_icons=true&theme=dark&icon_color='#FFFFFF')
